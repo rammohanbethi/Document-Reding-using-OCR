@@ -1,1 +1,1 @@
-# Smart Document Reading using OCR
+# Document Reading using OCR
